@@ -1,9 +1,9 @@
 :root {
   --main-white: #f0f0f0;
   --main-pink: #ef798a;
-  --main-gray: #988b8e;
-  --main-purple: #F5F5F5
-    /*#613f75;*/
+  --main-gray: #F5F5F5;
+    /*#988b8e;*/
+  --main-purple: #613f75;
   --main-yellow: #fabc3c;
   --main-black: #272727;
 }
