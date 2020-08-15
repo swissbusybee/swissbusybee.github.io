@@ -160,7 +160,7 @@ img {
   justify-content: center;
   align-items: center;
   background-image: url("photo-VII.png");
-  background-color: hsla(0, 0%, 100%, 0.8);
+  background-color: hsla(0, 0%, 100%, 0.9);
   background-blend-mode: overlay;
   background-repeat: no-repeat;
 }
